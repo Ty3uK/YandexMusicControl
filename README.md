@@ -60,6 +60,7 @@ Spoon automatically finds browser that running Yandex.Music. Code contains prede
 - Extract and copy `YandexMusicControl.spoon` into `~/.hammerspoon/Spoons` folder
 - Insert `hs.loadSpoon("YandexMusicControl")` into top of `~/.hammerspoon/init.lua` file
 - Reload Hammerspoon
+- Enable JavaScript execution by AppleScript in yout browser 
 
 ## License
 
